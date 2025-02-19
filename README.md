@@ -1,5 +1,9 @@
 # JavaScript から wasm に文字列を渡す with Go 1.24
 
+下記の記事のデモコードです。
+
+- [JavaScript から wasm に文字列を渡す with Go 1.24 - 無駄と文化](https://blog.mudatobunka.org/entry/2025/02/19/100000)
+
 ## 実行方法
 
 wasm コンパイル
